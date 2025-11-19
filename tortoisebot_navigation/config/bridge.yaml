@@ -1,0 +1,5 @@
+topics:
+  - ros: /odom
+    gz: /odom_ign
+    type: nav_msgs/msg/Odometry
+    qos: 1
