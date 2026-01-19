@@ -13,3 +13,6 @@ Implementing Autonomous Navigation Using Nav2 NavigationToPose action . The robo
 
 # Terminal 4 : Run Navigation
 ```ros2 launch nav2_bringup navigation_launch.py use_sim_time:=true```
+
+#Terminal 5 : Run the script
+```ros2 run <your_package nav2_patrol> ```
